@@ -1,0 +1,14 @@
+{
+    "identifier": "io.github.ntran.sn-theme-muteddark",
+    "name": "Muted Dark",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.8",
+    "description": "A dark theme with muted colors for Standard Notes",
+    "marketing_url": "https://github.com/ntran/sn-theme-muteddark",
+    "thumbnail_url": "https://raw.githubusercontent.com/ntran/sn-theme-muteddark/master/thumbnail.png",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/sn-theme-muteddark/1.0.8/dist/dist.css",
+    "download_url": "https://github.com/ntran/sn-theme-muteddark/archive/1.0.8.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/sn-theme-muteddark/index.json"
+}

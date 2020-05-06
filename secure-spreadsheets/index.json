@@ -1,0 +1,13 @@
+{
+    "identifier": "org.standardnotes.standard-sheets",
+    "name": "Secure Spreadsheets",
+    "content_type": "SN|Component",
+    "area": "editor-editor",
+    "version": "1.3.3",
+    "description": "A powerful spreadsheet editor with formatting and formula support. Not recommended for large data sets, as encryption of such data may decrease editor performance.",
+    "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/spreadsheets.png",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/secure-spreadsheets/1.3.3/dist/index.html",
+    "download_url": "https://github.com/sn-extensions/secure-spreadsheets/archive/1.3.3.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/secure-spreadsheets/index.json"
+}

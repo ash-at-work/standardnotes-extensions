@@ -1,0 +1,21 @@
+{
+    "identifier": "dev.cldn.sn-theme-dracula",
+    "name": "Dracula",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.2.1",
+    "description": "A Dracula inspired theme for Standard Notes.",
+    "marketing_url": "https://github.com/cameronldn/sn-theme-dracula",
+    "thumbnail_url": "https://raw.githubusercontent.com/cameronldn/sn-theme-dracula/master/preview.png",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/sn-theme-dracula/1.2.1/dist/dist.css",
+    "download_url": "https://github.com/cameronldn/sn-theme-dracula/archive/1.2.1.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/sn-theme-dracula/index.json",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#8be9fd",
+        "foreground_color": "#8be9fd",
+        "border_color": "#8be9fd"
+    },
+    "statusBar": "dark-content"
+}

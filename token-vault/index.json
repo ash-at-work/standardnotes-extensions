@@ -1,0 +1,16 @@
+{
+    "identifier": "org.standardnotes.token-vault",
+    "name": "TokenVault",
+    "content_type": "SN|Component",
+    "area": "editor-editor",
+    "version": "1.0.5",
+    "description": "Encrypt and protect your 2FA secrets for all your internet accounts. TokenVault handles your 2FA secrets so that you never lose them again, or have to start over when you get a new device.",
+    "thumbnail_url": "https://standard-notes.s3.amazonaws.com/screenshots/models/editors/token-vault.png",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/token-vault/1.0.5/dist/index.html",
+    "download_url": "https://github.com/sn-extensions/token-vault/archive/1.0.5.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/token-vault/index.json",
+    "flags": [
+        "Beta"
+    ]
+}

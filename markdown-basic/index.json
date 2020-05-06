@@ -1,0 +1,14 @@
+{
+    "identifier": "org.standardnotes.simple-markdown-editor",
+    "name": "Simple Markdown Editor",
+    "content_type": "SN|Component",
+    "area": "editor-editor",
+    "version": "1.3.6",
+    "description": "A Markdown editor with dynamic split-pane preview.",
+    "marketing_url": "https://standardnotes.org/extensions/simple-markdown-editor",
+    "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/simple-markdown.jpg",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/markdown-basic/1.3.6/dist/index.html",
+    "download_url": "https://github.com/sn-extensions/markdown-basic/archive/1.3.6.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/markdown-basic/index.json"
+}

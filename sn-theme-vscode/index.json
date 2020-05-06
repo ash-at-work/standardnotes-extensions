@@ -1,0 +1,20 @@
+{
+    "identifier": "io.github.hyphone.sn-theme-vscode",
+    "name": "VS Code Theme",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.16",
+    "description": "A theme for Standard Notes inspired by the VS Code Dark theme.",
+    "marketing_url": "https://github.com/hyphone/sn-theme-vscode",
+    "thumbnail_url": "https://github.com/hyphone/sn-theme-vscode/raw/master/screenshot.png",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/sn-theme-vscode/1.0.16/dist/dist.css",
+    "download_url": "https://github.com/hyphone/sn-theme-vscode/archive/1.0.16.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/sn-theme-vscode/index.json",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#252526",
+        "foreground_color": "#D4D4D4",
+        "border_color": "#7ba78a"
+    }
+}

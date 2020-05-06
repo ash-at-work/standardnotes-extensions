@@ -1,0 +1,14 @@
+{
+    "identifier": "org.standardnotes.plus-editor",
+    "name": "Plus Editor",
+    "content_type": "SN|Component",
+    "area": "editor-editor",
+    "version": "1.4.0",
+    "description": "From highlighting to custom font sizes and colors, to tables and lists, this editor is perfect for crafting any document.",
+    "marketing_url": "https://standardnotes.org/extensions/plus-editor",
+    "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/plus-editor.jpg",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/plus-editor/1.4.0/index.html",
+    "download_url": "https://github.com/sn-extensions/plus-editor/archive/1.4.0.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/plus-editor/index.json"
+}

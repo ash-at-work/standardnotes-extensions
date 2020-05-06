@@ -1,0 +1,20 @@
+{
+    "identifier": "org.standardnotes.theme-focus",
+    "name": "Focus",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.2.3",
+    "description": "For when you need to go in.",
+    "marketing_url": "https://standardnotes.org/extensions/focused",
+    "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/focus-with-mobile.jpg",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/focus-theme/1.2.3/dist/dist.css",
+    "download_url": "https://github.com/sn-extensions/focus-theme/archive/1.2.3.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/focus-theme/index.json",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#a464c2",
+        "foreground_color": "#ffffff",
+        "border_color": "#a464c2"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "identifier": "org.standardnotes.vim-editor",
+    "name": "Vim Editor",
+    "content_type": "SN|Component",
+    "area": "editor-editor",
+    "version": "1.3.2",
+    "description": "A code editor with Vim key bindings.",
+    "marketing_url": "https://standardnotes.org/extensions/vim-editor",
+    "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/vim.jpg",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/vim-editor/1.3.2/index.html",
+    "download_url": "https://github.com/sn-extensions/vim-editor/archive/1.3.2.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/vim-editor/index.json"
+}

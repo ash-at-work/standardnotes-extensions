@@ -1,0 +1,20 @@
+{
+    "identifier": "io.github.christianhans.sn-pure-black-theme",
+    "name": "Pure Black",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.9",
+    "description": "Theme optimized for Optimized for OLED devices such as iPhone X.",
+    "marketing_url": "https://github.com/christianhans/sn-pure-black-theme",
+    "thumbnail_url": "https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/preview1.png",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/sn-pure-black-theme/1.0.9/dist/dist.css",
+    "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.9.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/sn-pure-black-theme/index.json",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#000000",
+        "foreground_color\"": "#000000",
+        "border_color": "#000000"
+    }
+}

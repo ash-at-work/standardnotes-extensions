@@ -1,0 +1,19 @@
+{
+    "identifier": "org.standardnotes.theme-autobiography",
+    "name": "Autobiography",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.0",
+    "description": "A theme for writers and readers.",
+    "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/autobiography.jpg",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/autobiography-theme/1.0.0/dist/dist.css",
+    "download_url": "https://github.com/sn-extensions/autobiography-theme/archive/1.0.0.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/autobiography-theme/index.json",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#9D7441",
+        "foreground_color": "#ECE4DB",
+        "border_color": "#9D7441"
+    }
+}

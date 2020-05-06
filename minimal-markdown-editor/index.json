@@ -1,0 +1,14 @@
+{
+    "identifier": "org.standardnotes.minimal-markdown-editor",
+    "name": "Minimal Markdown Editor",
+    "content_type": "SN|Component",
+    "area": "editor-editor",
+    "version": "1.3.3",
+    "description": "A minimal Markdown editor with live rendering and in-text search via Ctrl/Cmd + F",
+    "marketing_url": "https://standardnotes.org/extensions/minimal-markdown-editor",
+    "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/min-markdown.jpg",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/minimal-markdown-editor/1.3.3/index.html",
+    "download_url": "https://github.com/sn-extensions/minimal-markdown-editor/archive/1.3.3.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/minimal-markdown-editor/index.json"
+}

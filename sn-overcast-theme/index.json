@@ -1,0 +1,20 @@
+{
+    "identifier": "com.ceiphr.overcast",
+    "name": "Overcast",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "v1.1.3",
+    "description": "Overcast to become cloudy or dark \u2014 just like this theme.",
+    "marketing_url": "https://github.com/ceiphr/sn-overcast-theme",
+    "thumbnail_url": "https://i.imgur.com/KDnyBGx.png",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/sn-overcast-theme/v1.1.3/dist/dist.css",
+    "download_url": "https://github.com/ceiphr/sn-overcast-theme/archive/v1.1.3.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/sn-overcast-theme/index.json",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#039be5",
+        "foreground_color": "#19181a",
+        "border_color": "#039be5"
+    }
+}

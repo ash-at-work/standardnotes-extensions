@@ -1,0 +1,20 @@
+{
+    "identifier": "org.standardnotes.theme-titanium",
+    "name": "Titanium",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.2.2",
+    "description": "Light on the eyes, heavy on the spirit.",
+    "marketing_url": "https://standardnotes.org/extensions/titanium",
+    "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/titanium-with-mobile.jpg",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://github.com/ash-at-work/sn-extensions/titanium-theme/1.2.2/dist/dist.css",
+    "download_url": "https://github.com/sn-extensions/titanium-theme/archive/1.2.2.zip",
+    "latest_url": "https://github.com/ash-at-work/sn-extensions/titanium-theme/index.json",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#6e2b9e",
+        "foreground_color": "#ffffff",
+        "border_color": "#6e2b9e"
+    }
+}
